@@ -1,0 +1,3 @@
+[console_scripts]
+deepwalk = deepwalk.__main__:main
+
