@@ -8,7 +8,7 @@ The files are generally well-documented and the parameters that each script acce
 
 Feel free to open an issue if anything does not work.
 
-**Dependancies**
+**Dependencies**
 
 + Python 2.7
 + Tensorflow and tflearn
